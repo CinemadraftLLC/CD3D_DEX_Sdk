@@ -1,4 +1,4 @@
-# Pancakeswap SDK
+# CD3D DEX SDK
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Actions Status](https://github.com/pancakeswap/pancakeswap-sdk/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancakeswap-sdk)
@@ -8,13 +8,11 @@
 
 This is a fork of `@pancakeswap-libs/sdk-v2` modified to work on the BSC testnet against PancakeSwap V2 routers coupled with [`pancake-swap-interface-v1`](https://github.com/pancakeswap/pancake-swap-interface-v1).
 
-Detailed instructions and the modified `pancake-swap-interface-v1` code can be found at [https://github.com/ibhagwan/pancake-swap-interface-v1](https://github.com/ibhagwan/pancake-swap-interface-v1).
-
 ### Building this SDK
 
 Clone either this repository or the official one:
 ```
-❯ git clone https://github.com/ibhagwan/pancakeswap-sdk-v2
+❯ git clone https://github.com/CinemadraftLLC/CD3D_DEX_Sdk.git
 ```
 
 - Modify `FACTORY_ADDRESS` & `INIT_CODE_HASH` in `src/constants.ts`
