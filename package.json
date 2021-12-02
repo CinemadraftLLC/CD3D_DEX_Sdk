@@ -1,10 +1,11 @@
 {
-  "name": "@cd3d-dex-libs/sdk",
+  "name": "cd3d-dex-libs-sdk",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of CD3D DEX.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "author": "Hosokawa Zen",
   "files": [
     "dist"
   ],
