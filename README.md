@@ -18,8 +18,8 @@ Clone either this repository or the official one:
 - Modify `FACTORY_ADDRESS` & `INIT_CODE_HASH` in `src/constants.ts`
 - Modify the testnet `WBNB` at the end of `entities/token.ts`:
     ```
-    [ChainId.BSCTESTNET]: new Token(
-        ChainId.BSCTESTNET,
+    [ChainId.TESTNET]: new Token(
+        ChainId.TESTNET,
         '0xae13d989dac2f0debff460ac112a837c89baa7cd',
         18,
         'WBNB',
